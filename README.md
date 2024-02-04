@@ -1,6 +1,3 @@
-Certainly! Here's a professional README file in Markdown format for your project:
-
-```markdown
 # Supermarket Billing System
 
 ## Objective
